@@ -19,5 +19,5 @@ A lightweight AI-powered tool to generate chapter-wise summaries from book PDFs 
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
 - [SentenceTransformers](https://www.sbert.net/)
 - [FAISS](https://github.com/facebookresearch/faiss)
-- PyMuPDF for PDF text extraction
+- PyPDF2 for PDF text extraction
 - Google Colab (recommended for execution)
